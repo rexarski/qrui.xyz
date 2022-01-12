@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "rui's lab"
+title = "rexarski"
 theme = "etch"
 languageCode = "en-US"
 enableInlineShortcodes = true
@@ -7,8 +7,8 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  description = "Your site description"
-  copyright = "Copyright © 2022 Rui Qiu"
+  description = "a playground"
+  copyright = "Copyright © 2022 rexarski"
   dark = "auto"
   highlight = true
 
