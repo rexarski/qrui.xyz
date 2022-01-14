@@ -41,5 +41,5 @@ pygmentsUseClasses = true
   # Allow HTML in Markdown
   unsafe = true
 
-  [markup.tableOfContents]
-    ordered = true
+[markup.tableOfContents]
+  ordered = true
