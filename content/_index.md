@@ -3,6 +3,5 @@ title: "rexarski"
 ---
 Experiments only. No quality guaranteed.
 
-<!-- [Lab1](lab1.html) -->
-
+- [flexdashboard](https://celeritasml.github.io/storytelling-admission/)
 - [Scrollytell + Shiny](https://rexarski.shinyapps.io/shiny-scrollytell/)
