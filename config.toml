@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "rexarski"
+title = "qrui"
 theme = "etch"
 languageCode = "en-US"
 enableInlineShortcodes = true
@@ -24,7 +24,7 @@ pygmentsUseClasses = true
     identifier = "blogs"
     name = "blog"
     title = "blog"
-    url = "https://qrui.xyz"
+    url = "https://rexarski.com"
     weight = 10
 
   # [[menu.main]]

@@ -1,7 +1,6 @@
 ---
-title: "rexarski"
+title: "qrui"
 ---
-Experiments only. No quality guaranteed.
 
 - 2022
     - A comprehensive interactive visualization [project on Japanese cuisine](https://celeritasml.github.io/project-japanese-cuisine/) with D3, plotly and leaflet.
